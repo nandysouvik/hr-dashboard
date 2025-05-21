@@ -1,0 +1,10 @@
+.container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.announcement {
+    border-bottom: 1px solid #eee;
+    padding: 8px 0;
+}
